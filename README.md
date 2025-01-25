@@ -29,7 +29,7 @@ The dataset comprises various features related to plant health, including images
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/ThecoderPinar/Plant-Health-Monitoring-Project.git
+   git clone https://github.com/Ujaaslohani/Plant-Disease-Detection.git
 2. Install required packages
    ```sh
    pip install -r requirements.txt
@@ -38,9 +38,9 @@ The dataset comprises various features related to plant health, including images
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
   **Fork the Project**
-- Create your Feature Branch (git checkout -b feature/Plant-Health-Monitoring-Project)
-- Commit your Changes (git commit -m 'Add some Plant-Health-Monitoring-Project')
-- Push to the Branch (git push origin feature/Plant-Health-Monitoring-Project)
+- Create your Feature Branch (git checkout -b feature/Plant-Disease-Detection)
+- Commit your Changes (git commit -m 'Add some Plant-Disease-Detection')
+- Push to the Branch (git push origin feature/Plant-Disease-Detection)
 - Open a Pull Request
 
 ## 📝 License
